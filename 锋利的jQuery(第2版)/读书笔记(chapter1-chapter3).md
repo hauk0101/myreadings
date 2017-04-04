@@ -6,7 +6,7 @@
 出版发行：人民邮电出版社 <br>
 出版时间：2012年7月
 
-## 总结
+## 总结 (Chapter1-Chapter3)
 ### 第1章 认识jQuery
 本章主要是介绍了jQuery的发展经历，以及与其它js库作了简单的对比，同时也简单介绍了jQuery代码的编写例子，以及jQuery对象和DOM对象的关系，还简单介绍了jQuery与其它js库的关系，以及如何使用jQuery开发工具和插件。
 >1.jQuery的优势,在选择一项工具或者类库时，也应该先了解它会给我们开发过程带来怎样的遍历，有助于选择合适的类库。jQuery强调的理念是写的少，做的多（Write less,do more）。jQuery独特的选择器、链式操作、事件处理机制和封装完善的Ajax都是其他JavaScript库望尘莫及的。概括起来，jQuery有以下优势。
@@ -343,4 +343,3 @@ _除此之前，jQuery中还有很多遍历节点的方法，例如find()、filt
 * offest()方法是获取元素当前视窗的相对偏移，其中返回的对象包含两个属性，即top和left,它只对可见元素有效。
 * position()方法是获取元素相对于最近的一个position样式属性为relative或者absolute的祖父节点的相对偏移，其中返回的对象包含两个属性，即top和left,它只对可见元素有效。
 * scrollTop()方法和scrollLeft()方法。这两个方法的作用分别是获取元素的滚动条距顶端的距离和距左侧的距离。
-
